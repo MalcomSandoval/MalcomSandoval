@@ -7,8 +7,9 @@
 </p>
 
 ---
+## 🙋 **Sobre mí**
 
-
+- 🎓 Titulado como tecnico en programacion de software
 - 🎓 Estudiante de Tecnologo en Analisis y Desarrollo de Software
 - 🌐 Interesado en el desarrollo web, bases de datos y automatización
 - 💡 Aprendiendo cada día nuevas herramientas para resolver problemas reales
@@ -37,22 +38,20 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-%231A237E?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%2300C1FF?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ### 🐧 Otros:
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ---
 
-## 📊 **Estadísticas de GitHub**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malcomsandoval&show_icons=true&theme=midnight-purple" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcomsandoval&layout=compact&theme=midnight-purple" width="375"/>
-</div>
-
----
 
 ## 🤝 **Conectemos**
 
