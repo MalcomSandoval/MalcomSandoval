@@ -11,6 +11,7 @@
 
 - 🎓 Titulado como tecnico en programacion de software
 - 🎓 Titulado como Tecnologo en Analisis y Desarrollo de Software
+- 🎓 Titulado como tecnico en analisis de datos
 - 🌐 Interesado en el desarrollo web, bases de datos y automatización
 - 💡 Aprendiendo cada día nuevas herramientas para resolver problemas reales
 - 🔍 Abierto a colaboraciones y proyectos que impulsen mi crecimiento profesional
